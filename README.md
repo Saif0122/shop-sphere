@@ -5,7 +5,7 @@ This is an e-commerce website named (SHOP SPARE) made using modren technologies.
 
 ## Project info
 
-**URL**: https://shop-sphere-nine-liart.vercel.app/shop
+**URL**: https://shop-sphere-nine-liart.vercel.app
 
 
 
